@@ -112,20 +112,25 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 25px;
+  gap: 50px;
   color: #1f2937;
 }
 
+.info-text {
+  margin-top: 8px;
+  font-size: 18px;
+}
+
 .info-box {
-  width: 125px;
-  height: 125px;
+  width: 150px;
+  height: 150px;
   border: 1px solid #1f2937;
   border-radius: 8px;
   margin-top: 16px;
 }
 
 .info-item {
-  width: 125px;
+  width: 150px;
   font-size: 18px;
   text-align: center;
   align-content: center;
@@ -142,4 +147,18 @@ ul {
 
 h1 {
   color: #1f2937;
+}
+
+.section-3 {
+  height: 400px;
+  background-color:#e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-section {
+  width: 50%;
+  margin: auto;
+  font-size: 24px;
 }
