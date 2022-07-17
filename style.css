@@ -217,3 +217,10 @@ h1 {
 .call-p {
   font-size: 24px;
 }
+
+footer {
+  background-color: #1f2937;
+  padding: 24px;
+  color: #f9faf8;
+  text-align: center;
+}
