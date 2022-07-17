@@ -160,5 +160,60 @@ h1 {
 .quote-section {
   width: 50%;
   margin: auto;
+  position: absolute;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.quote-cite {
+  position: relative;
+  margin: 150px 0 0 600px;
+  font-size: 24px;
+  font-weight: 900;
+
+}
+
+.section-4 {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f9faf8;
+}
+
+.section4-container {
+  width: 80%;
+  margin: auto;
+  background-color: #3382f6;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+.text-align {
+  padding: 24px;
+  width: 70%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sign-up {
+  padding: 8px 48px;
+  background-color: #3382f6;
+  border: 1px solid #F9FAF8;
+  color: #f9faf8;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+.call-h2 {
+  font-size: 36px;
+}
+
+.call-p {
   font-size: 24px;
 }
